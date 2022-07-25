@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ejemplo1.AireAcondicionado">
+    <Position X="1.75" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAggAAAAAAQAABAAQAAAAAAAAAAAQIgAAAEAA=</HashCode>
+      <FileName>AireAcondicionado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo1.TELEVISION">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TELEVISION.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ejemplo1.ControlRemoto">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAA=</HashCode>
+      <FileName>ControlRemoto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
