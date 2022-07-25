@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\bin\Debug\EjemploLinq.exe.config
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\bin\Debug\EjemploLinq.exe
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\bin\Debug\EjemploLinq.pdb
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.Form1.resources
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.Properties.Resources.resources
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.exe
+C:\Users\Navegador\source\repos\EjemploLinq\EjemploLinq\obj\Debug\EjemploLinq.pdb

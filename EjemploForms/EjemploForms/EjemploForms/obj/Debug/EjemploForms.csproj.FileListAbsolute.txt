@@ -1,0 +1,12 @@
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\bin\Debug\EjemploForms.exe.config
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\bin\Debug\EjemploForms.exe
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\bin\Debug\EjemploForms.pdb
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Form1.resources
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Properties.Resources.resources
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.exe
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.pdb
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.frmPrincipal.resources
+C:\Users\Navegador\source\repos\EjemploForms\EjemploForms\obj\Debug\EjemploForms.Form2.resources
