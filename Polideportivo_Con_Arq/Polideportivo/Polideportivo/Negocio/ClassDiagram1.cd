@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Negocio.Alquiler" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgQAAAAEEAAAAAAAAAAABAACAAQAAgAAgAAA=</HashCode>
+      <FileName>Alquiler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.AlquilerArbitro" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAgAAAACgAAAAIAAAACAAAAAAA=</HashCode>
+      <FileName>AlquilerArbitro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.AlquilerJuezLinea">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAQAAgAAAACAYAAAAAAAACAAAAAIA=</HashCode>
+      <FileName>AlquilerJuezLinea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Cancha" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAQAAAAAAEAAAABAAAEAAAABAAIAAAACAAgAAQ=</HashCode>
+      <FileName>Cancha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Persona">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAQAAAGkAAABhAAAAAQAAAAACAAAAAAAIAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.Polideportivo" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAIAYAAGAAEAAAABAABAAAAAwAQBAAgQBAgIAAA=</HashCode>
+      <FileName>Polideportivo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Negocio.ClaseAmiga">
+    <Position X="8" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClaseAmiga.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Negocio.EnumTipo" Collapsed="true">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EnumTipo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

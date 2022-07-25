@@ -1,0 +1,6 @@
+C:\Users\Navegador\Downloads\Polideportivo\Polideportivo\Negocio\bin\Debug\Negocio.dll
+C:\Users\Navegador\Downloads\Polideportivo\Polideportivo\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Navegador\Downloads\Polideportivo\Polideportivo\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Navegador\Downloads\Polideportivo\Polideportivo\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Downloads\Polideportivo\Polideportivo\Negocio\obj\Debug\Negocio.dll
+C:\Users\Navegador\Downloads\Polideportivo\Polideportivo\Negocio\obj\Debug\Negocio.pdb
