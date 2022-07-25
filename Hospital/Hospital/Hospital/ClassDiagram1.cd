@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hospital.Persona">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAACEAAAAhgAAAEAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.Medico">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAAAAMAAAACAAAAAAAAAAAQEACAABAAAAAAAEAAA=</HashCode>
+      <FileName>Medico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.MedicoEspecialista">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MedicoEspecialista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.Especialidad">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAARAAAASAAAAAgAAAAAAAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>Especialidad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Hospital.HistoriaClinica">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAEAEAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>HistoriaClinica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.Atencion">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAUAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Atencion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Hospital.TurnoSinTomar">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Turno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.AtencionProgramada">
+    <Position X="3.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQ=</HashCode>
+      <FileName>AtencionProgramada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.Estudio">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMAAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Estudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.Orden">
+    <Position X="7.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAIAAAACAAAAAAAAAAABAAAAgQAAAIAAA=</HashCode>
+      <FileName>Orden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.TurnoTomado">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAA=</HashCode>
+      <FileName>TurnoTomado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.HOSPITAL" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAAAEEBAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAABA=</HashCode>
+      <FileName>HOSPITAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.TurnoOrden">
+    <Position X="4.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAA=</HashCode>
+      <FileName>TurnoOrden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hospital.Item">
+    <Position X="2" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="Hospital.delInformarTurnoTomado">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>delInformarTurnoTomado.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

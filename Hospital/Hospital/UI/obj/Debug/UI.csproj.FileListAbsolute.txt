@@ -1,0 +1,13 @@
+D:\Hospital\UI\bin\Debug\UI.exe.config
+D:\Hospital\UI\bin\Debug\UI.exe
+D:\Hospital\UI\bin\Debug\UI.pdb
+D:\Hospital\UI\bin\Debug\Hospital.dll
+D:\Hospital\UI\bin\Debug\Hospital.pdb
+D:\Hospital\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\Hospital\UI\obj\Debug\UI.Form1.resources
+D:\Hospital\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Hospital\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Hospital\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Hospital\UI\obj\Debug\UI.csproj.CopyComplete
+D:\Hospital\UI\obj\Debug\UI.exe
+D:\Hospital\UI\obj\Debug\UI.pdb
